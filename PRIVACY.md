@@ -1,4 +1,4 @@
-# Sentinel Privacy Policy
+# WildSentry Privacy Policy
 
 *Last updated: July 11, 2026*
 

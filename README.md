@@ -1,6 +1,6 @@
-# Sentinel
+# WildSentry
 
-**An off-grid perimeter monitoring system** — solar-friendly LoRa sensor nodes, a touchscreen base station, and an iPhone app for alerts.
+**WildSentry — an off-grid perimeter monitoring system** — solar-friendly LoRa sensor nodes, a touchscreen base station, and an iPhone app for alerts.
 
 Sentinel watches remote trails and approaches with battery-powered sensor nodes that passively detect nearby Bluetooth devices (phones, watches, earbuds carried by people). Detections travel by LoRa — no WiFi, no cellular, no internet — to a base station, which shows them on a touchscreen dashboard, plays audio alerts, and pushes notifications to your iPhone over Bluetooth.
 
